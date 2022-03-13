@@ -1,0 +1,11 @@
+[all]
+ansiblemastercentos7001.brandeys8.wixsite.com
+
+[rhel_hosts]
+ansiblemastercentos7001.brandeys8.wixsite.com
+
+[web_hosts]
+ansiblemastercentos7001.brandeys8.wixsite.com
+
+[db_hosts]
+ansiblemastercentos7001.brandeys8.wixsite.com
